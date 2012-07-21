@@ -1,0 +1,10 @@
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Domain.dll
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Domain.pdb
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Events.dll
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Ncqrs.dll
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Microsoft.Contracts.dll
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Events.pdb
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Ncqrs.pdb
+D:\dev\my\CQRS\SimpleTwitter\Domain\bin\Debug\Ncqrs.xml
+D:\dev\my\CQRS\SimpleTwitter\Domain\obj\Debug\Domain.dll
+D:\dev\my\CQRS\SimpleTwitter\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="RaedModel" Class="ReadModelDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP\SQLEXPRESS;Initial Catalog=RaedModel;User ID=sa" SettingsObjectName="ReadModel.Properties.Settings" SettingsPropertyName="RaedModelConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TweetCountPerUser" Member="TweetCountPerUsers">
+    <Type Name="TweetCountPerUser">
+      <Column Name="Who" Type="System.String" DbType="NVarChar(255) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Count" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TweetIndexItem" Member="TweetIndexItems">
+    <Type Name="TweetIndexItem">
+      <Column Name="Id" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Message" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Who" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="TimeStamp" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

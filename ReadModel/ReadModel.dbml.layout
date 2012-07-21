@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ReadModel">
+  <DataContextMoniker Name="/ReadModelDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b05da1d7-2b72-451c-b68d-3cc74215929f" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/ReadModelDataContext/TweetCountPerUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="99bc4e7a-5717-453d-8630-cf34f4c13fb8" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="847564cb-beee-4a4a-959b-e3e01c80d42c" absoluteBounds="0.75, 2.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ReadModelDataContext/TweetIndexItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc0b6c6c-4ae3-4530-8b88-2b27495b3494" absoluteBounds="0.765, 3.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

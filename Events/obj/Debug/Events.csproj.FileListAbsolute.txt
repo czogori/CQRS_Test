@@ -1,0 +1,9 @@
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Events.dll
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Events.pdb
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Ncqrs.dll
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Microsoft.Contracts.dll
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Ncqrs.pdb
+D:\dev\my\CQRS\SimpleTwitter\Events\bin\Debug\Ncqrs.xml
+D:\dev\my\CQRS\SimpleTwitter\Events\obj\Debug\Events.dll
+D:\dev\my\CQRS\SimpleTwitter\Events\obj\Debug\Events.pdb
+D:\dev\my\CQRS\SimpleTwitter\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\CommandExecutors.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\CommandExecutors.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Commands.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Domain.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Ncqrs.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Events.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Microsoft.Contracts.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Commands.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Domain.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Ncqrs.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Ncqrs.xml
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\bin\Debug\Events.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\obj\Debug\CommandExecutors.dll
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\obj\Debug\CommandExecutors.pdb
+D:\dev\my\CQRS\SimpleTwitter\CommandExecutors\obj\Debug\CommandExecutors.csprojResolveAssemblyReference.cache

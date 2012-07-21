@@ -1,0 +1,8 @@
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Commands.dll
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Commands.pdb
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Ncqrs.dll
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Microsoft.Contracts.dll
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Ncqrs.pdb
+D:\dev\my\CQRS\SimpleTwitter\Commands\bin\Debug\Ncqrs.xml
+D:\dev\my\CQRS\SimpleTwitter\Commands\obj\Debug\Commands.dll
+D:\dev\my\CQRS\SimpleTwitter\Commands\obj\Debug\Commands.pdb
